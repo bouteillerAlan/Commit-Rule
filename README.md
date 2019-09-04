@@ -1,7 +1,7 @@
 # Commit-Rule
 My personal commit rule 
 
-Last-maj : 26/08/19
+Last-maj : 04/09/19
 
 ### #1 
 
