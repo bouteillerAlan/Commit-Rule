@@ -20,15 +20,21 @@ description
 
 Type is : 
 
+#### dependencies, build system, integration
 - ``build`` changes that affect the build system or external dependencies (npm, make ...)
 - ``ci`` changes concerning the files and scripts of integration or configuration (Travis, Ansible, BrowserStack ...)
+
+#### general
 - ``feat`` adding a new feature
 - ``fix`` fixed a bug
 - ``perf`` performance improvement
 - ``refactor`` change that does not bring new functionality or performance improvement
 - ``style`` change that does not bring any functional or semantic alteration (indentation, formatting, addition of space, renaming of a variable ...)
-- ``docs`` writing or updating documentation
 - ``test`` adding or modifying tests
+
+#### docs, git, bdd
+- ``docs`` writing or updating documentation (readme.md and database.md)
+- ``git`` adding or modifying .gitignore
 
 Scope is a part of the project (like bdd, front, product, ....).
 
